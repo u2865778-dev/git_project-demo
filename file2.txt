@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "This is second file" mark rock
+=======
+echo "This is second file" alpha
+>>>>>>> feature1
