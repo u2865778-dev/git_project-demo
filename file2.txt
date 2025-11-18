@@ -1,1 +1,1 @@
-echo "This is second file"
+echo "This is second file" alpha
